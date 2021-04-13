@@ -3,7 +3,7 @@
 
 
 
-Specs
+# Specs
 CPU: Intel Core i3 5005U
 
 iGPU: Intel 5500
@@ -26,30 +26,30 @@ HDD: 256GB Samsung EVO 860
 
 
 
-What's working:
-Audio. (Speaker and Headphone jack)
-Microphone. (Integrated and Headphone)
-Audio controls
-LCD brightness (also via keyboard)
-CPU Power Management
-SD Card reader
-Webcam
-Bluetooth. (Fully Working with audio support, etc.)
-Ethernet
-Wifi
-USB
-Sleep
-Trackpad (partially)
-HDMI
-Triple Booting (Linux, Windows and macOS)
+# What's working:
+* Audio (Speaker and Headphone jack)
+* Microphone (Integrated and Headphone)
+* Audio controls
+* LCD brightness (also via keyboard)
+* CPU Power Management
+* SD Card reader
+* Webcam
+* Bluetooth (Fully Working with audio support, etc.)
+* Ethernet
+* Wifi
+* USB
+* Sleep
+* Trackpad (partially)
+* HDMI
+* Triple Booting (Linux, Windows and macOS)
 
 
  
 
-Problems
-During picker selection, it moves only from first to last selection. I cannot use graphical picker due to thi issue, but only text picker where I can choose the selection via numbers.
+# Problems
+* During picker selection, it moves only from first to last selection. I cannot use graphical picker due to thi issue, but only text picker where I can choose the selection via numbers.
  
 
-Not tested:
-iMessage, FaceTime, iCloud
-HDMI Audio
+# Not tested:
+* iMessage, FaceTime, iCloud
+* HDMI Audio
