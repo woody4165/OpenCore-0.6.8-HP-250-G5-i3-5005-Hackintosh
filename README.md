@@ -40,7 +40,7 @@ HDD: 256GB Samsung EVO 860
 * Wifi
 * USB
 * Sleep
-* Trackpad (partially)
+* Trackpad
 * HDMI
 * Triple Booting (Linux, Windows and macOS)
 
