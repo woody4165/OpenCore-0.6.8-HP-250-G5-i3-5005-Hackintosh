@@ -1,4 +1,4 @@
-# OpenCore 0.6.8 HP 250 G5 i3 5005
+# OpenCore 0.6.8 HP 250 G5 (CPU Intel i3 5005)
  This is working on my laptop HP 250 G5 with cpu Intel i3-5005. 
  I've installed Catalina on it.
 
