@@ -47,10 +47,6 @@ HDD: 256GB Samsung EVO 860
 
  
 
-# Problems
-* During picker selection, it moves only from first to last selection. I cannot use graphical picker due to thi issue, but only text picker where I can choose the selection via numbers.
- 
-
 # Not tested:
 * iMessage, FaceTime, iCloud
 * HDMI Audio
