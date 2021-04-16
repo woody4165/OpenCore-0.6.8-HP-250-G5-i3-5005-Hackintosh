@@ -36,7 +36,7 @@ HDD: 256GB Samsung EVO 860
 * SD Card reader
 * Webcam
 * Bluetooth (Fully Working with audio support, etc.)
-* Ethernet
+* Ethernet (with version 2.2.2 of Realtek 8111 kext)
 * Wifi
 * USB
 * Sleep
