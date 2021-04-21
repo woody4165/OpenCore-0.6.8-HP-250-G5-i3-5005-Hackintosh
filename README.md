@@ -34,7 +34,7 @@ HDD: 256GB Samsung EVO 860
 * LCD brightness (also via keyboard)
 * CPU Power Management
 * SD Card reader
-* Webcam
+* Webcam (needs USBInjectAll.kext)
 * Bluetooth (Fully Working with audio support, etc.)
 * Ethernet (with version 2.2.2 of Realtek 8111 kext)
 * Wifi
